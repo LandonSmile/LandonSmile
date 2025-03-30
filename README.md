@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is a troll virus to make your friends think they are getting hacked. Run as administator, this is harmless.
 
 <!--
 **LandonSmile/LandonSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
